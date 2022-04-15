@@ -1,0 +1,2 @@
+# Exploring_the_NYC_Airbnb_Market
+In this project, I applied data importing and cleaning skills to uncover insights about the Airbnb market in New York City.  I also imported data from multiple file types and combine them to answer questions about the Airbnb market in New York. I used string cleaning and date manipulation skills to extract accurate information from the datasets. The packages and tools used here are utilized by data scientists everyday since so much of the world's data is stored in unconventional formats and is not clean or analysis-ready.
